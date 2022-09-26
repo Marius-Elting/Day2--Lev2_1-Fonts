@@ -1,0 +1,43 @@
+h1 {
+    font-size: 48px;
+    background-color: #4c4c4c;
+    text-shadow: 3px 3px black;
+    text-align: center;
+    font-family: arial;
+    color: white;
+    line-height: 150%;
+}
+
+nav p {
+    word-spacing: 10px;
+    text-indent: 40px;
+}
+
+main p {
+    word-spacing: -3px;
+    text-indent: 60px;
+}
+
+h2 {
+    text-shadow: 1px 1px grey;
+    letter-spacing: 4px;
+}
+
+body section p {
+    background-color: #999999;
+    line-height: 200%;
+}
+
+body aside p {
+    background-color: #333333;
+    line-height: 200%;
+    color: white;
+}
+
+p {
+    padding-left: 20px;
+}
+
+h2 {
+    padding-left: 20px;
+}
